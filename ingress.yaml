@@ -4,7 +4,7 @@ metadata:
   name: nginx-demo
 spec:
   rules:
-    - host: demo.yourdomain.com
+    - host: nginx-test-lg.tochratana.com
       http:
         paths:
           - path: /
